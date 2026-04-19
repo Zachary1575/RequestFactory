@@ -4,7 +4,7 @@
 
 <a name="readme-top"></a>
 
-# RequestFactory
+# Request_Factory
 A small tool that simulates API requests. 
 
 Powered by your choice of LLMs to think of realistic scenarios for backend testing.
