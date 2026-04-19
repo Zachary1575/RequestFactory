@@ -5,8 +5,10 @@
 <a name="readme-top"></a>
 
 # RequestFactory
-A small tool that simulates API requests.
+A small tool that simulates API requests. 
 
-Engineered with performance and throughput as first class citizens.
+Powered by your choice of LLMs for to think of realistic scenarios for backend testing.
+
+Engineered with correctness, performance, and throughput as first class citizens.
 
 </div>
