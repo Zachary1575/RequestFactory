@@ -7,8 +7,6 @@
 # RequestFactory
 A small tool that simulates API requests. 
 
-Powered by your choice of LLMs for to think of realistic scenarios for backend testing.
-
-Engineered with correctness, performance, and throughput as first class citizens.
+Powered by your choice of LLMs to think of realistic scenarios for backend testing.
 
 </div>
